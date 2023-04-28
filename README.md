@@ -1,4 +1,8 @@
 # php_assessment
+Default Login:
+- Username: admin
+- Password: password
+
 Planned Process:
 1.	Initialize environment (“Hello World!” using XAMPP)
 2.	Design database (“users” and “vehicles” table)
