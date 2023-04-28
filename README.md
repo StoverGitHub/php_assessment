@@ -21,3 +21,4 @@ Future Goals/Improvement Ideas:
 9.	Numbered pages to easily navigate numerous entries
 10.	Add a navigation bar to the top and info bar to the bottom
 11.	Multiple Pictures per car to click through
+12.	Expand the "Vehicle Listed __ Days Ago" functionality
