@@ -26,3 +26,5 @@ Future Goals/Improvement Ideas:
 10.	Add a navigation bar to the top and info bar to the bottom
 11.	Multiple Pictures per car to click through
 12.	Expand the "Vehicle Listed __ Days Ago" functionality
+
+The MySQL database was created using phpMyAdmin. The schema can be found in picture form (db_schema.png) and in exported SQL form (assessment_db.sql). It has two tables: one for storing user information and one for storing vehicle listing information. For the purposes of this assessment, there were no relations between tables. Serial values were used as primary keys so input for account creation needed to be protected within index.php.
